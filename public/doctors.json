@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/7gy5JLY/Portrait-Of-Mature-Male-Doctor-Wearing-White-Coat-Standing-In-Hospital-Corridor.jpg",
+      "name": "Abdul Alim",
+      "specialist": "Otolaryngologists"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/GJZpkZ3/African-smiling-doctor-with-stethoscope-standing-with-arms-crossed-in-the-doctor-s-room-and-looking.jpg",
+      "name": "Morshed Hossen",
+      "specialist": "Pulmonologists"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/k9jb6K9/Portrait-of-confident-young-medical-doctor-on-blue-background.jpg",
+      "name": "Motahar Ali",
+      "specialist": "Urologists"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/4T2cQSB/Portrait-of-a-pharmacist-standing-with-his-arms-crossed-in-a-drugstore-All-products-have-been-altere.jpg",
+      "name": "Mahmud Hossain",
+      "specialist": "Nephrologists"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/BwbqrgF/Portrait-of-confident-mature-black-doctor-consulting-digital-tablet-and-looking-at-camera-Smiling-af.jpg",
+      "name": "Mahbubur Rahman",
+      "specialist": "Gastroenterologists"
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/mCNRJvY/Portrait-of-a-handsome-doctor-reading-patients-file-close-up.jpg",
+      "name": "Tanim Ahmed",
+      "details": "Endocrinologists"
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/mHm3VTW/doctor7.jpg",
+      "name": "Sahid Hossain",
+      "specialist": "Cardiologists"
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/ySQ1wDQ/Smiling-mature-male-doctor-with-digital-tablet-in-his-office-Friendly-medical-professional-with-tabl.jpg",
+      "name": "Rakibul Islam",
+      "specialist": "gynecologists"
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/sWH8Q7F/Prostate-Cancer-Awareness-Doctor-man-holding-light-Blue-Ribbon-for-supporting-people-living-and-illn.jpg",
+      "name": "Yasin Khan",
+      "specialist": "Ophthalmologists"
+    }
+]
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/qpcg21P/services1.jpg",
+      "name": "doctor care",
+      "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi accusamus deleniti quae cum ut praesentium quibusdam ipsum minima vel, eum nihil excepturi inventore debitis aliquid quas eveniet adipisci molestias libero!"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/3fHgfHH/services2.jpg",
+      "name": "Nursing care",
+      "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi accusamus deleniti quae cum ut praesentium quibusdam ipsum minima vel, eum nihil excepturi inventore debitis aliquid quas eveniet adipisci molestias libero!"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/GJv54CW/services3.png",
+      "name": "Medical Social Services",
+      "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi accusamus deleniti quae cum ut praesentium quibusdam ipsum minima vel, eum nihil excepturi inventore debitis aliquid quas eveniet adipisci molestias libero!"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/V9TqX1t/services4.jpg",
+      "name": "Volenture care",
+      "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi accusamus deleniti quae cum ut praesentium quibusdam ipsum minima vel, eum nihil excepturi inventore debitis aliquid quas eveniet adipisci molestias libero!"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/DwbgcB3/Patient-and-doctor-looking-at-knee-x-ray-result-in-clinical-office.jpg",
+      "name": "Laboratory and x-ray images",
+      "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi accusamus deleniti quae cum ut praesentium quibusdam ipsum minima vel, eum nihil excepturi inventore debitis aliquid quas eveniet adipisci molestias libero!"
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/MhnfmFk/services6.webp",
+      "name": "Pharmacitical services",
+      "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi accusamus deleniti quae cum ut praesentium quibusdam ipsum minima vel, eum nihil excepturi inventore debitis aliquid quas eveniet adipisci molestias libero!"
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/BrRpNX4/services7.webp",
+      "name": "Transportation",
+      "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi accusamus deleniti quae cum ut praesentium quibusdam ipsum minima vel, eum nihil excepturi inventore debitis aliquid quas eveniet adipisci molestias libero!"
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/xDSHf9g/services8.jpg",
+      "name": "Home delivery meals",
+      "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi accusamus deleniti quae cum ut praesentium quibusdam ipsum minima vel, eum nihil excepturi inventore debitis aliquid quas eveniet adipisci molestias libero!"
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/CwTK6cw/services9.jpg",
+      "name": "Dental services",
+      "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi accusamus deleniti quae cum ut praesentium quibusdam ipsum minima vel, eum nihil excepturi inventore debitis aliquid quas eveniet adipisci molestias libero!"
+    }
+]
